@@ -1,4 +1,4 @@
-### 🧠Memento Mori⚡
+### 🧠❤️ Memento Mori ( yeah go google it )👋 ⚡
 
 <!--
 **joel2011140/joel2011140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
