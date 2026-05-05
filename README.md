@@ -42,8 +42,6 @@ I care about:
 ---
 
 ## Contact
-
-- GitHub: https://github.com/joel2011140  
 - LinkedIn: linkedin.com/in/joel-marinho  
 - Email: joeldeveloper2011140@gmail.com  
 
