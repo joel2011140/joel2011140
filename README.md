@@ -44,7 +44,7 @@ I care about:
 ---
 
 ## Contact
-- LinkedIn: linkedin.com/in/joel-marinho  
+- LinkedIn: https://linkedin.com/in/joel-marinho  
 - Email: joeldeveloper2011140@gmail.com  
 
 ---
