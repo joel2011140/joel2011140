@@ -1,16 +1,50 @@
-### 🧠❤️ Memento Mori ( yeah go google it )👋 ⚡
+# Joel Jorge Marinho
 
-<!--
-**joel2011140/joel2011140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer (React • Next.js • TypeScript)  
+Luanda, Angola  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I’m a frontend engineer focused on building **scalable, high-performance web applications**.
+
+I care about:
+- Clean and maintainable architecture
+- Performance and user experience
+- Scalable frontend systems
+- Writing predictable and reusable code
+
+---
+
+## Tech Stack
+
+- React / Next.js
+- TypeScript
+- React Query
+- GraphQL / REST APIs
+- Tailwind CSS
+
+---
+
+## Interests
+
+- Frontend architecture
+- Performance optimization
+- Scalable UI systems
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joel2011140&show_icons=true&theme=github_dark)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/joel2011140  
+- LinkedIn: linkedin.com/in/joel-marinho  
+- Email: joeldeveloper2011140@gmail.com  
+
+---
